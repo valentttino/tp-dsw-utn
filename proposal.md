@@ -2,10 +2,11 @@
 
 ## Grupo
 ### Integrantes
-* 49687 - Dominio, Constanza.
+
 * 49704 - Boggio, Valentino.
-* 48947 - Sarkissian, Milton.
+* 49687 - Dominio, Constanza.
 * 50556 - Gutiérrez, Ramiro.
+* 48947 - Sarkissian, Milton.
 
 ### Repositorios
 *No realizado aún*
