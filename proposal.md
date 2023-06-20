@@ -19,7 +19,7 @@
 Se pretende crear un sitio web para una ONG que realiza distintas actividades en las que se relacionan administradores (Jefes de grupos) con voluntarios. A su vez se cuenta con suscriptores parciales que reciben información sobre la página en general.
 
 ### Modelo
-![imagen del modelo]()
+[![imagen del modelo]()](https://github.com/valentttino/tp-dsw-utn/blob/main/MD.jpeg)
 
 ## Alcance Funcional 
 
