@@ -40,7 +40,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Administrador<br>2. CRUD Voluntario<br>3. CRUD Actividad<br>4. CRUD Grupo<br>5. Encuesta<br>6. Suscriptor<br>7. Informe<br>8. Newsletter|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CUU/Epic|1. Registrar mail del suscriptor<br>2. Enviar notificaciones<br>3. Registrar voluntario<br>4. Registrar elección del voluntario sobre actividad<br>5. Registrar elección voluntario sobre grupo<br>6. Realizar encuesta<br>7. Reg|
 
 
 ### Alcance Adicional Voluntario
