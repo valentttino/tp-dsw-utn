@@ -21,6 +21,8 @@ Se pretende crear un sitio web para una ONG que realiza distintas actividades en
 ### Modelo
 ![imagen del modelo](https://github.com/valentttino/tp-dsw-utn/blob/main/MD.jpg)
 
+*Atributos de las clases aún no definitivos*
+
 ## Alcance Funcional 
 
 ### Alcance Mínimo
