@@ -43,6 +43,6 @@ Adicionales para Aprobación
 |CUU/Epic|1. Registrar un administrador<br>2. Registrar un suscriptor<br>3. Registrar un voluntario<br>4. Crear una actividad<br>5. Crear grupos de la actividad<br>6. Unirse a un grupo<br>7. Realizar informe periódicamente (CUU que se repite)<br>8. Redactar y enviar un newsletter (CUU que se repite)<br>9. Realizar encuesta<br>10. Consultar resultados de la encuesta|
 
 
-### Alcance Adicional Voluntario **
+### Alcance Adicional Voluntario 
 
 *Aún no definido*
