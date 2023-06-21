@@ -27,7 +27,7 @@ Se pretende crear un sitio web para una ONG que realiza distintas actividades en
 
 ### Alcance Mínimo
 
-Regularidad:
+Regularidad
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Administrador<br>2. CRUD Voluntario<br>3. CRUD Actividad<br>4. CRUD Grupo|
