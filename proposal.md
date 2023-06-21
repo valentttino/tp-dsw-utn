@@ -32,7 +32,7 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Administrador<br>2. CRUD Voluntario<br>3. CRUD Actividad<br>4. CRUD Grupo|
 |CRUD dependiente|1. CRUD Informe {depende de} CRUD Actividad<br>2. CRUD Encuesta {depende de} CRUD Actividad|
-|Listado<br>+<br>detalle| 1. Listado de actividades disponibles, muestra título y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
+|Listado<br>+<br>detalle| 1. Listado de actividades disponibles, muestra título, descripción y fecha de inicio => detalle CRUD Actividad<br> 2. Listado de ranking de porcentajes, muestra los porcentajes de aquellos que accedan a la categoría Administrador, título y fecha incio de la actividad => detalle CRUD Encuesta y CRUD Actividad|
 |CUU/Epic|1. Realizar inscripción a una actividad<br>2. Realizar encuesta post finalización de una actividad|
 
 
