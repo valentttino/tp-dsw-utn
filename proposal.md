@@ -30,9 +30,9 @@ Se pretende crear un sitio web para una ONG que realiza distintas actividades en
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Provincia<br>2. CRUD Usuario<br>3. CRUD Newletter <br>4. CRUD Estado actividad|
-|CRUD dependiente|1. CRUD Localidad {depende de} CRUD Provincia<br>2. CRUD Actividad {depende de} CRUD Usuario|
-|Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
+|CRUD simple|1. CRUD Administrador<br>2. CRUD Voluntario<br>3. CRUD Actividad<br>4. CRUD Grupo|
+|CRUD dependiente|1. CRUD Informe {depende de} CRUD Actividad<br>2. CRUD Encuesta {depende de} CRUD Actividad|
+|Listado<br>+<br>detalle| 1. Listado de actividades disponibles, muestra título y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
 |CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
 
 
