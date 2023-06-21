@@ -40,10 +40,10 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Administrador<br>2. CRUD Voluntario<br>3. CRUD Actividad<br>4. CRUD Grupo<br>5. CRUD Encuesta<br>6. CRUD Suscriptor<br>7. CRUD Informe<br>8. CRUD Newsletter|
-|CUU/Epic|1. Registrar mail del suscriptor<br>2. Enviar notificaciones<br>3. Registrar voluntario<br>4. Registrar elección del voluntario sobre actividad<br>5. Registrar elección voluntario sobre grupo<br>6. Realizar encuesta<br>7. Reg|
+|CUU/Epic|1. Registrar un administrador<br>2. Registrar un suscriptor<br>3. Registrar un voluntario<br>4. Crear una actividad<br>5. Crear grupos de la actividad<br>6. Unirse a un grupo<br>7. Realizar informe periódicamente (CUU que se repite)<br>8. Redactar y enviar un newsletter (CUU que se repite)<br>9. Realizar encuesta<br>10. Consultar resultados de la encuesta|
 
 
-### Alcance Adicional Voluntario
+### Alcance Adicional Voluntario **
 
 *Nota*: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
 
