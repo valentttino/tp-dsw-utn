@@ -32,8 +32,8 @@ Regularidad
 |:-|:-|
 |CRUD simple|1. CRUD Administrador<br>2. CRUD Voluntario<br>3. CRUD Actividad<br>4. CRUD Grupo|
 |CRUD dependiente|1. CRUD Informe {depende de} CRUD Actividad<br>2. CRUD Encuesta {depende de} CRUD Actividad|
-|Listado<br>+<br>detalle| 1. Listado de actividades disponibles, muestra título, descripción y fecha de inicio => detalle CRUD Actividad<br> 2. Listado de ranking de porcentajes, muestra los porcentajes de aquellos que accedan a la categoría Administrador, título y fecha incio de la actividad => detalle CRUD Encuesta y CRUD Actividad|
-|CUU/Epic|1. Realizar inscripción a una actividad<br>2. Consultar resultados de una encuesta post finalización de una actividad|
+|Listado<br>+<br>detalle| 1. Listado de actividades disponibles, muestra título, descripción y fecha de inicio => detalle CRUD Actividad<br> 2. Listado de ranking de porcentajes, muestra los porcentajes de aquellos que accedan a la categoría Administrador, título y fecha incio de la actividad => detalle CRUD Encuesta y CRUD Actividad<br> 3. Listado de voluntarios que puedan aplicar a ser administradores, muestra sus ID, nombre, apellido, cantidad de actividades participadas y su valoración general => detalle CRUD Voluntario|
+|CUU/Epic|1. Realizar inscripción a una actividad<br>2. Consultar resultados de una encuesta post finalización de una actividad<br> 3. Consultar listado de voluntarios que reunan condiciones para ser administradores|
 
 
 Adicionales para Aprobación
